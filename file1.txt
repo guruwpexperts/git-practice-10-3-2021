@@ -1,1 +1,1 @@
-This is FILE 1. This is file for second commit.
+This is FILE 1. This is file for third commit.
